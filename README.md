@@ -1,3 +1,6 @@
+<img width="1360" height="960" alt="05_CareNerve_diagram" src="https://github.com/user-attachments/assets/327e26e8-12ad-4280-baf4-27c391d08e93" />
+[carenerve_parser.json](https://github.com/user-attachments/files/32848402/carenerve_parser.json)
+[carenerve_master.json](https://github.com/user-attachments/files/32848400/carenerve_master.json)
 # CareNerve — Healthcare Lead Qualification with AI Voice Calls
 
 An automated intake system for a home healthcare provider. It checks whether a service is available at the customer's pincode, calls qualified leads with an AI voice agent, turns the call transcript into structured lead data, and notifies the customer and internal teams.
